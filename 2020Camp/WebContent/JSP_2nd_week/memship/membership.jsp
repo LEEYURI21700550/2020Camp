@@ -22,6 +22,9 @@
 		<p>phone Number</p>
 		<input type="text" name="phoneNum" placeholder="input phone number"><br><br>
 		
+		<p>introduce yourself</p>
+		<input type="text" name="intro" placeholder="input"><br><br>
+		
 		<input type="submit" value="go"/>  
 	
 	</form>

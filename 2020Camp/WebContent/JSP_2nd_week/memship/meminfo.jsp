@@ -11,5 +11,6 @@
 	PW: ${member.pw }
 	e-mail: ${member.email }
 	phone: ${member.phoneNum }
+	intro: ${member.intro }
 </body>
 </html>

@@ -6,6 +6,7 @@ public class MemberBean {
 	private String pw;
 	private String email;
 	private String phoneNum;
+	private String intro;
 	
 	public MemberBean() {
         // TODO Auto-generated constructor stub
@@ -33,6 +34,12 @@ public class MemberBean {
 	}
 	public void setPhoneNum(String phoneNum) {
 		this.phoneNum = phoneNum;
+	}
+	public String getIntro() {
+		return intro;
+	}
+	public void setIntro(String intro) {
+		this.intro = intro;
 	}
 
 }
