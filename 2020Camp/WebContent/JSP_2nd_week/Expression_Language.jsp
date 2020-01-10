@@ -23,12 +23,8 @@
 	<a href="process.jsp">visit</a>  
 	
 	<br>
-	<h1>First JSP</h1>  
-	<%  
-	Cookie ck=new Cookie("name","abhishek");  
-	response.addCookie(ck);  
 
-	%>  
-	<a href="process.jsp">click</a>  
+
+
 </body>
 </html>

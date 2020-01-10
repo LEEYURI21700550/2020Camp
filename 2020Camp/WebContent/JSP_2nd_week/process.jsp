@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 	Welcome, ${ param.name } <br>
 	Hello, ${cookie.name.value} <br>
 	Value is ${ sessionScope.user } <br>
+
+
 </body>
 </html>
